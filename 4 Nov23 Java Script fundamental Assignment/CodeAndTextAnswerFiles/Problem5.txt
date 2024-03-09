@@ -1,0 +1,30 @@
+Importance of comments in javascript->
+
+The JavaScript comments are meaningful way to deliver message. It is used to add information about the code, warnings or suggestions so that end user can easily interpret the code. The JavaScript comment is ignored by the JavaScript engine i.e. embedded in the browser.
+
+Types of comments -
+
+1) Single Line comments
+syntax->  //This is single line comment
+
+2) Multiline comment
+syntax-> /*
+         *This is a Multiline
+         *comment
+         */
+
+Example of single line comment->
+
+<script>
+    // console.log used for display message  on terminal
+    console.log("hello");
+<script/>
+
+Example of multiline comments->
+
+<script>
+    /*console.log is use for display message 
+    *on terminal
+    */
+    console.log("hello");
+<script/>

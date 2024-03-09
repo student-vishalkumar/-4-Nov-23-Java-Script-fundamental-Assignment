@@ -1,0 +1,13 @@
+Importance pf meaningful and discriptive variable anme is javascript-> 
+
+Descriptive variable names really make reading code a lot easier. But the reality is that some variables are hard to describe accurately. In general, you want to be descriptive, but keep your variable names from about 8 to 20 characters.
+
+Example -
+
+const firstName = "Vishal";
+const middleName = "Kumar";
+const lastName = "Rajput";
+
+console.log(firstName + ' ' + middleName + ' ' + lastName);
+
+output -> Vishal Kumar Rajput

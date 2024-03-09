@@ -1,0 +1,27 @@
+Five primitive datatypes in javascript:
+
+1) String.
+2) Number.
+3) Null.
+4) Boolean.
+5) Undefined.
+
+1) String - The string data type in JavaScript represents a sequence of characters that are surrounded by single or double quotes.
+
+syntax-> let Str = "Name";
+
+2)Number - Number data type in javascript can be used to hold decimal values as well as values without decimals.
+
+syntax-> const x = 14;
+
+3)Null - This data type can hold only one possible value that is null.
+
+syntax-> let x = null;
+
+4)Boolean - The boolean data type can accept only two values i.e. true and false.
+
+syntax-> let isLoggedIn = false;
+
+5)Undefined - The meaning of undefined is ‘value is not assigned’.
+
+syntax = let bankBalance = undefined;
